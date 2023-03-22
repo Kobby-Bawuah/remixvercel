@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/keren/Desktop/remixvercel",
+      "program": "/Users/keren/Desktop/remixvercel/build/Debug/outDebug"
+    }
+  ]
+}
