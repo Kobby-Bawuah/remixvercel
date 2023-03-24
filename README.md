@@ -75,5 +75,3 @@ npx remix build --sourcemap
 blah blah
 
 fran test 2
-
-big boy in the building
