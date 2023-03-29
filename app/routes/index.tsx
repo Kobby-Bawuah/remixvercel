@@ -7,7 +7,7 @@ export let loader: LoaderFunction = async () => {
 }
 
 const handleClick =() => {
-  throw new Error("Sentry error test1.1");
+  throw new Error("Please!! Sentry error test1.1.1");
 }
 
 export default function Home() {
