@@ -72,6 +72,8 @@ yasss2
 sentry-cli releases files "my-project-name@1.2" upload-sourcemaps ./public
 npx remix build --sourcemap
 
+sentry-cli releases set-commits "2a57b095fa2591c5fe9f1882255d5a68fd65c9f9" --commit "Kobby-Bawuah/remixvercel@2a57b095fa25" --log-level=debug
+
 blah blah
 
 fran test 2
